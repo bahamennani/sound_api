@@ -1,0 +1,8 @@
+flask
+tensorflow
+tensorflow-lite
+librosa
+numpy
+pydub
+scipy
+gunicorn
